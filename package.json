@@ -1,0 +1,19 @@
+{
+  "name": "my_namaste_react",
+  "version": "1.0.0",
+  "description": "Namaste react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sangita-Balaji/Namaste-React.git"
+  },
+  "author": "Sangita Balaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sangita-Balaji/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Sangita-Balaji/Namaste-React#readme"
+}
