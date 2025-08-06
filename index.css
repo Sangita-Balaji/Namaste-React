@@ -35,8 +35,6 @@
 .res-card {
     padding: 5px;
     width: 250px;
-
-
     background-color: #f0f0f0;
 }
 
@@ -46,6 +44,39 @@
 }
 
 .res-container {
+    margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
+}
+
+.filter-btn,
+.search-btn,
+.logInOut-btn {
+    padding: 12px;
+    margin-left: 20px;
+}
+
+.shimmer-container {
+    padding-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card {
+    width: 300px;
+    height: 400px;
+    margin: 10px;
+    background-color: #f0f0f0;
+}
+
+.search-box {
+    height: 30px;
+    width: 450px;
+    font-size: 18px;
+    padding: 3px;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
 }

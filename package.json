@@ -13,6 +13,7 @@
   },
   "author": "Sangita Balaji",
   "license": "ISC",
+  "proxy": "https://www.swiggy.com",
   "bugs": {
     "url": "https://github.com/Sangita-Balaji/Namaste-React/issues"
   },
