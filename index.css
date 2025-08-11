@@ -69,6 +69,48 @@
     background-color: #f0f0f0;
 }
 
+.menu
+{
+    margin : 50px 250px;
+}
+
+.res-details
+{
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    padding-left: 20px;
+    box-shadow: 15px 20px lightgray;
+    
+}
+
+.res-card-links
+{
+    text-decoration: none;
+    color: black;
+}
+
+.res-menu
+{
+    padding: 20px;
+}
+
+.menu-details{
+    color: rgba(2, 6, 12, 0.6);;
+    padding: 20px 0px;
+    font-size: 18px;
+    border-bottom: 1px solid lightgray;
+}
+
+.menu-name{
+    font-weight:bold;
+    color: black;
+}
+
+.menu-details li{
+    padding : 5px;
+    list-style-type: none;
+}
+
 .search-box {
     height: 30px;
     width: 450px;
