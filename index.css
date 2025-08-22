@@ -122,3 +122,17 @@
     display: flex;
     justify-content: space-between;
 }
+
+.abt-page
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.abt-class
+{
+    display: flex;
+    flex-direction: column;
+}
